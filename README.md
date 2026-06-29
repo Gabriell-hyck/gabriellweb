@@ -64,4 +64,4 @@ Bebas dipakai dan dimodifikasi untuk keperluan pribadi.
 
 ---
 
-<sub>built with ♥ + caffeine by gabrielldewaruci</sub>
+
